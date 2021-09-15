@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/"
+  to = "https://miyalingerie.com"
+  status = 301
+  force = true
+  headers = {X-From = "Netlify"}
